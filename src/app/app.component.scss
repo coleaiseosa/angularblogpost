@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.side-bar {
+    background-color: #fcfcfc;
+    border: 1px solid #fff;
+    padding-left: 50px;
+}
+
+.profile-pic {
+    width: 95px;
+    height: 95px;
+    margin-top: 100px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #acacac;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #acacac;
+}
+
+.btn-primary {
+    background-color: #ededfb !important;
+    color: #5c53ef;
+    border: none;
+    width: 174px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.btn {
+    font-weight: bold;
+}
+
+.img-sex {
+    width: 16px;
+    height: 23.7px;
+    margin-top: 35px; /* the position relative and top negative value pushes the image upwards vertically */
+}
+
+.all-icons {
+    display: flex;
+}
+
+.sex {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.sub-text {
+    margin-left: 35px;
+    position: relative;
+    top: -5px;
+}
+
+.img-svg {
+    width: 20px;
+    height: 20px;
+}
+
+.margin {
+    margin-top: 10px;
+}
+
+#paddies {
+    width: 336px;
+    height: 56px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px solid #c9c9c9;
+    color: #555555;
+    font-weight: 600;
+
+}
+
+#paddies:focus {
+    border: 2px solid #5c53ef;
+    color: #5c53ef;
+    outline: none;
+}
+
+select { /* to style the drop down option section */
+   color: #acacac;
+   font-size: 18px;
+   font-weight: 500;
+   padding: 15px;
+}
+
+.middle {
+    background-color: #f3f2f7;
+    border: 1px solid #fff;
+    padding-left: 50px;
+}
+
+
+
+
+.red {
+    border: 2px solid red;
+    
+}
+

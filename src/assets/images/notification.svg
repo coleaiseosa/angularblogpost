@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.001" height="26.994" viewBox="0 0 29.001 26.994">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555;
+      }
+
+      .cls-2 {
+        fill: #e01d1d;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-size: 14px;
+        font-family: GoogleSans-Medium, Google Sans;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Group_3541" data-name="Group 3541" transform="translate(-1178.999 -101)">
+    <g id="notification" transform="translate(1178.999 101.35)">
+      <g id="Group_3438" data-name="Group 3438" transform="translate(0)">
+        <g id="Group_3437" data-name="Group 3437" transform="translate(0)">
+          <path id="Path_12939" data-name="Path 12939" class="cls-1" d="M64.8,22.474,62.893,19.3a9.438,9.438,0,0,1-1.346-4.856V11.657A7.781,7.781,0,0,0,56,4.213V2.22a2.22,2.22,0,0,0-4.441,0V4.213A7.781,7.781,0,0,0,46,11.657V14.44A9.444,9.444,0,0,1,44.66,19.3l-1.906,3.177a.556.556,0,0,0,.475.842H64.323a.555.555,0,0,0,.476-.84Z" transform="translate(-42.675)"/>
+        </g>
+      </g>
+      <g id="Group_3440" data-name="Group 3440" transform="translate(7.606 24.424)">
+        <g id="Group_3439" data-name="Group 3439">
+          <path id="Path_12940" data-name="Path 12940" class="cls-1" d="M188.815,469.333a3.862,3.862,0,0,0,6.992,0Z" transform="translate(-188.815 -469.333)"/>
+        </g>
+      </g>
+    </g>
+    <circle id="Ellipse_357" data-name="Ellipse 357" class="cls-2" cx="9" cy="9" r="9" transform="translate(1190 101)"/>
+    <text id="_1" data-name="1" class="cls-3" transform="translate(1196 115)"><tspan x="0" y="0">1</tspan></text>
+  </g>
+</svg>

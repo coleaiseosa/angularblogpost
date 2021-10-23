@@ -1,0 +1,11 @@
+<svg id="woman" xmlns="http://www.w3.org/2000/svg" width="15.993" height="23.722">
+    <defs>
+        <style>
+            .cls-1{fill:#6e6e6e}
+        </style>
+    </defs>
+    <path id="Path_12646" data-name="Path 12646" class="cls-1" d="M176.488 300.924h1.007v1.524a1.452 1.452 0 0 0 2.9 0v-1.524h1.023a1.26 1.26 0 1 0 0-2.519H180.4v-4.587h-2.888l-.016 4.587h-1.007a1.26 1.26 0 0 0 0 2.519z" transform="translate(-170.958 -280.177)"/>
+    <path id="Path_12647" data-name="Path 12647" class="cls-1" d="M227.051 301.366v-3.437h-2.888l-.011 3.437a7.988 7.988 0 0 0 2.899 0z" transform="translate(-217.611 -284.098)"/>
+    <path id="Path_12648" data-name="Path 12648" class="cls-1" d="M91.238 0a8 8 0 1 0 8 8 8 8 0 0 0-8-8zm0 12.942A4.945 4.945 0 1 1 96.183 8a4.945 4.945 0 0 1-4.945 4.942z" transform="translate(-83.241)"/>
+    <path id="Path_12649" data-name="Path 12649" class="cls-1" d="M86.424 9.134a4.948 4.948 0 0 1 5.945-5.952 16.3 16.3 0 0 1 3.479-1.719 8 8 0 0 0-10.732 11.678 14.9 14.9 0 0 1 1.308-4.007z" transform="translate(-83.241)"/>
+</svg>
