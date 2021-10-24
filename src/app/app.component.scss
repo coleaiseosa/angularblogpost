@@ -108,11 +108,46 @@ select { /* to style the drop down option section */
 .middle {
     background-color: #f3f2f7;
     border: 1px solid #fff;
-    padding-left: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
+.sex-ed {
+    font-size: 32px;
+    font-weight: bold;
 
+}
 
+.user-name {
+    font-weight: 600;
+}
+
+#categories {
+    width: 270px;
+    height: 48px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px solid #eeeeee;
+}
+
+#categories:focus {
+    border: 2px solid #4d79f6;
+    color: #4d79f6;
+    outline: none;
+}
+
+select { /* to style the drop down option section */
+   color: #acacac;
+   font-size: 18px;
+   font-weight: 500;
+   padding: 15px;
+   margin-left: 12px;
+}
+
+.group {
+    width: 271px;
+    height: 137px;
+}
 
 .red {
     border: 2px solid red;
