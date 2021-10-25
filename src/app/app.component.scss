@@ -62,14 +62,14 @@ img {
     border:0
 }
 
+
+
 h2 {
     font-size: 19px;
-    // font-weight: bold;
 }
 
 h3 {
     font-size: 17px;
-    // font-weight: bold;
 }
 
 h4 {
@@ -128,13 +128,14 @@ h5 {
 }
 
 #paddies {
-    width: 336px;
+    width: 334px;
     height: 56px;
     border-radius: 5px;
     box-shadow: none;
     border: 1px solid #c9c9c9;
     color: #555555;
     font-weight: 600;
+    
 
 }
 
@@ -144,18 +145,13 @@ h5 {
     outline: none;
 }
 
-select { /* to style the drop down option section */
-//    color: #acacac;
-//    font-size: 18px;
-//    font-weight: 500;
-//    padding: 15px;
-}
+
+
 
 
 
 .sex-ed {
     font-size: 32px;
-    // font-weight: bold;
 
 }
 
@@ -177,21 +173,149 @@ select { /* to style the drop down option section */
     outline: none;
 }
 
-select { /* to style the drop down option section */
-//    color: #acacac;
-//    font-size: 18px;
-//    font-weight: 500;
-//    padding: 15px;
-//    margin-left: 12px;
-}
+
 
 .group {
     width: 271px;
     height: 137px;
 }
 
-.red {
-    border: 2px solid red;
+.end {
+    background-color: #fcfcfc;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+
     
 }
+
+.search-box i {
+    position: absolute;
+    margin-left: 380px;
+    font-size: 18px;
+    color: #555555;
+ 
+}
+
+.search-input {
+    padding: 5px 10px 5px 10px;
+    width: 400px;
+    height: 74px;
+    background-color: #eceaf3;
+    border: none;
+    border-radius: 18px;
+    margin-left: 20px;
+}
+
+::placeholder {
+    font-size: 18px;
+    color: #555555;
+    padding-left: 10px;
+    font-weight: 500;
+}
+
+.recent-posts {
+   font-weight: 700;
+   font-size: 24px;
+   margin-left: 20px;
+  
+}
+
+.all-recent {
+    display: flex;
+}
+
+.small-clock {
+    display: flex;
+}
+
+.small-clock img {
+    width: 14px;
+    height: 14px;
+    margin-top: 5px;
+}
+
+.recent-img img {
+    width: 96px;
+    height: 96px;
+}
+
+.all-recent {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.feeds-recent {
+    margin-left: 15px;
+}
+
+.feeds-recent h5 {
+    font-size: 13px;
+}
+
+.feeds-recent h4 {
+   font-size: 17px;
+   color: #000000;
+   font-weight: 700;
+   line-height: 20px;
+}
+
+.small-clock p {
+    color: #6e6e6e;
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 4px;
+    margin-left: 8px;
+}
+
+
+
+.recent-img-two img{
+    width: 96px;
+    height: 96px;
+}
+
+.all-recent-two {
+    display: flex;
+}
+
+.small-clock {
+    display: flex;
+}
+
+.small-clock img {
+    width: 14px;
+    height: 14px;
+    margin-top: 5px;
+}
+
+
+.all-recent-two {
+    margin-top: 22px;
+    margin-left: 20px;
+}
+
+.feeds-recent-two {
+    margin-left: 15px;
+}
+
+.feeds-recent-two h5 {
+    font-size: 13px;
+}
+
+.feeds-recent-two h4 {
+   font-size: 17px;
+   color: #000000;
+   font-weight: 700;
+   line-height: 20px;
+}
+
+#general-recent {
+    margin-bottom: 30px;
+}
+
+
+
 
