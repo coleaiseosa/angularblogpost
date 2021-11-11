@@ -1,0 +1,72 @@
+.card {
+    .card-title {
+    color: #000;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.card-text {
+color: #555;
+font-size: 11px;
+font-weight: 500;
+
+span {
+    color:#5d83f6 !important;
+}
+}
+.card {
+    margin: 5px;
+    border:0
+}
+
+img {
+    padding:10px;
+}
+}
+
+h2 {
+    font-size: 19px;
+}
+
+h3 {
+    font-size: 17px;
+}
+
+h4 {
+    font-size: 15px;
+    font-weight: 500;
+    color: #acacac;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.time-stamp {
+    color:#555555;
+    font-size: 9px;
+}
+
+.sex-ed {
+    font-size: 32px;
+
+}
+.category {
+    color:#555555;
+    font-size: 9px;
+}
+
+#categories {
+    width: 270px;
+    height: 48px;
+    border-radius: 5px;
+    box-shadow: none;
+    border: 1px solid #eeeeee;
+}
+
+#categories:focus {
+    border: 2px solid #4d79f6;
+    color: #4d79f6;
+    outline: none;
+}
